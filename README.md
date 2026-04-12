@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 Hi there, I'm Riya Sharma
 
-<!--
-**riya-Sharma2802/riya-Sharma2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Full Stack Developer | Laravel | IoT Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+Developer;IoT+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+- 🔭 I’m currently working on **Beamstack Project (NBF)**
+- 🌱 I’m currently learning **Advanced Laravel & System Design**
+- 👯 I’m looking to collaborate on **Web Development & IoT Projects**
+- 💬 Ask me about **Laravel, APIs, Debugging, Filters**
+- ⚡ Fun fact: I enjoy debugging more than coding 😄
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-indigo?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana)
+
+---
+
+## 🚀 Projects
+
+### 🔹 Beamstack Project (NBF)
+- Implemented filters & export functionality
+- Backend optimization using Laravel
+
+### 🔹 IoT Machine Breakdown Prediction
+- Built dashboards using Grafana
+- Predictive analysis for machine maintenance
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riya-Sharma2802&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-Sharma2802&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=riya-Sharma2802&theme=radical" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riya-Sharma2802&label=Profile%20views&color=blue&style=flat" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: riyasharma40490@example.com
+
+---
+
+⭐ **Thanks for visiting my profile!**
