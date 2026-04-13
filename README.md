@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer | Machine Learning Learner </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+Developer;IoT+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
