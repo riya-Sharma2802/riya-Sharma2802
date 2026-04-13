@@ -52,15 +52,9 @@
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riya-Sharma2802&label=Profile%20views&color=blue&style=flat" />
-</p>
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: riyasharma40490@example.com
+
 
 ---
 
