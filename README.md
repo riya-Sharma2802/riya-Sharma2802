@@ -49,24 +49,6 @@
 - Built dashboards using Grafana
 - Predictive analysis for machine maintenance
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya-Sharma2802&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-Sharma2802&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riya-Sharma2802&theme=radical" />
-</p>
 
 ---
 
