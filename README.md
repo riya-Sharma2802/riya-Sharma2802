@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Riya Sharma
 
-<h3 align="center">🚀 Full Stack Developer | Laravel | IoT Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Machine Learning Learner </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+Developer;IoT+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
